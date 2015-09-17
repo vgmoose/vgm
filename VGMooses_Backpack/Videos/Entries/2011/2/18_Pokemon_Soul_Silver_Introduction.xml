@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:05 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This is it! The start of fourth generation hacking! After much work I have finally figured out how to edit text in it... It was kind of complicated too.&#xD;&#xD;Maybe I&#x2019;ll get a tutorial up soon, but I don&#x2019;t know.&#xD;&#xD;The actual content of this video is pretty much you&#x2019;d expect from an introduction hack. The two screens do pan when necessary, although I can&#x2019;t imagine that will be required in areas that aren&#x2019;t The Intro.&#xD;&#xD;Map editing coming soon? No clue, but perhaps Black and White if the process is similar enough...&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, February 18, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Pok&#xE9;mon Soul Silver Introduction&lt;/b&gt;</richText>
+  </textBox>
+</content>

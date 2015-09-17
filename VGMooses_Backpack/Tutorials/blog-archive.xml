@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Tutorials</title>
+    <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials</link>
+    <description>Here&#x2019;s where various ROM hacking tutorials lurk. Most of the tutorials will reference the tools provided in the &#x201C;Downloads&#x201D; section up above, but will apply anywhere as long as you have the required tools downloaded.</description>
+    <item>
+      <title>Fourth and Fifth Gen Etiquette</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials/Entries/2011/2/24_Fouth_Gen_Basics.html</link>
+      <guid isPermaLink="false">46fb5c93-115f-485a-b62f-7b191053781b</guid>
+      <pubDate>Thu, 24 Feb 2011 11:25:01 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials/Entries/2011/2/24_Fouth_Gen_Basics.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Custom Text Tutorial</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials/Entries/2010/10/11_Custom_Text_Tutorial.html</link>
+      <guid isPermaLink="false">537f106a-ae34-4c79-b722-7b7b955a2584</guid>
+      <pubDate>Mon, 11 Oct 2010 16:23:37 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials/Entries/2010/10/11_Custom_Text_Tutorial.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Inserting Custom Pok&#xE9;mon Sprites</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials/Entries/2010/9/16_Making_Custom_Pokemon.html</link>
+      <guid isPermaLink="false">d50824d7-6027-49bd-aa3a-8534641831e3</guid>
+      <pubDate>Thu, 16 Sep 2010 18:10:52 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials/Entries/2010/9/16_Making_Custom_Pokemon.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Using Visual Boy Advance</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials/Entries/2010/9/14_Using_Visual_Boy_Advance.html</link>
+      <guid isPermaLink="false">94552c86-00cc-4e6b-8c75-b7f287bb9b38</guid>
+      <pubDate>Tue, 14 Sep 2010 15:36:03 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials/Entries/2010/9/14_Using_Visual_Boy_Advance.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Tutorials</iweb:baseURL>
+    <iweb:maximumSummaryItems>22</iweb:maximumSummaryItems>
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="280EE85D-4A2D-4E18-94E1-A0B4E51CDB22">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:27 -0500"/>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="30_Entry_1_files/firsthax.jpg" left="0px" top="0px" width="706px" height="121.0286px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This generation includes, and is limited to: Pok&#xE9;mon Green, Red, Blue, and Yellow. The tools included, however, are only guaranteed for the ones released in America, IE. Red through Yellow. Click the banner or link below to proceed to the download.&#xD;&#xD;&lt;/b&gt;&lt;b&gt;First Generation Hacking tools download link:&#xD;&lt;/b&gt;&lt;b&gt;&lt;a href="http://tinyurl.com/1vgtools"&gt;http://tinyurl.com/1vgtools&lt;/a&gt;&lt;/b&gt;&lt;b&gt;&#xD;&lt;/b&gt;&lt;b&gt;&#xD;Download a specific tool or view unarchived package:&#xD;&lt;/b&gt;&lt;b&gt;&lt;a href="http://tinyurl.com/1vgview"&gt;http://tinyurl.com/1vgview&#xD;&lt;/a&gt;&lt;/b&gt;&lt;b&gt;&#xD;Included in this pack:&#xD;&lt;/b&gt;&lt;b&gt;	-	Attack Editor GB - Edit Attacks. Functions with all Gen I games.&#xD;	-	Poke Edit GB - Edit the stats of Pok&#xE9;mon. Functions with all Gen I.&#xD;	-	Pokemap RB - Edit the maps. Compatible fully with Red and Blue versions (USA). Limited support is available for other Gen I (see readme in folder)&#xD;	-	Pokemon GAE4E - Gym and Elite Four editor for all Gen I. Pretty straightforward.&#xD;	-	Pokemon Title Editor RB - Edit the Pok&#xE9;mon on the R/B title screen.&#xD;	-	PokeStarter GB - Change the starter Pok&#xE9;mon in all Gen I games.&#xD;	-	Poketext - Edit the text! Compatible with all Gen I and Gen II games.&#xD;	-	RBG Title Editor - Another title screen editor. Not for Yellow version.&#xD;	-	RBGYTMEditor - TM editor for all of Gen I.&#xD;	-	RBTitlescreenEditor - Yet another title screen editor for R/B&#xD;	-	RBY Mart Editor - Edit marts in all Gen I.&#xD;	-	RBYGtrade - Edit in game trades in all Gen I.&#xD;	-	Silent - Another mart editor. Only functions for R/B (USA).&#xD;	-	Yellow Starter Editor - Edit all Overworld sprites in Pok&#xE9;mon yellow.&#xD;	-	Visual Boy Linker - Gameboy emulator with link cable properties&#xD;&lt;/b&gt;&lt;b&gt;&#xD;A brief readme is also included containing references to anything you might need later.&#xD;&#xD;&lt;/b&gt;&lt;b&gt;&lt;a href="http://www.doperoms.com"&gt;Need a ROM?&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;September 30, 1998&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;First Generation&lt;/b&gt;</richText>
+  </textBox>
+</content>

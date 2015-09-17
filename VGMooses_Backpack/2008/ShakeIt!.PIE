@@ -1,0 +1,127 @@
+/*========================================================================*\
+//                               SHAKEIT!                                 \\
+//                     By VGMoose (vgmoose@gmail.com)                     \\
+//                http://www.freewebs.com/vgmoose/vgmoose                 \\
+//========================================================================\\
+    WHAT IT IS:
+               ShakeIt! Is a mini-game for two wiimotes. All it does is measure who can shake the Wiimote the most rapidly,
+               much like a certain Mario Party 8 Mini-Game.
+
+    HOW TO PLAY:
+            1) Connect Two Wiimotes
+            2) Press the RUN button
+            3) When both players are ready, either hold down A, B, or Home until the LEDs light up. The LEDs will light up to which player it is
+            4) Once both LEDs flash, begin shaking
+            5) First remote to 'fill' the LEDs along the bottom wins.
+            6) Winner's wiimote shakes, loser's has their LED's power down
+            7) Hold either A, B, or Home to start again at step 4
+
+    OTHER FEATURES:
+            1) At any time during playing, hit PLUS and MINUS on a remote to quit
+            2) Press either MINUS or PLUS at the same time on both remotes to reset application
+            3) Delete the commented out lines at the bottom to enable cheat codes
+            4) The cheat codes will let the player press anywhere on the DPad to finish instantly
+            5) There is a hard mode indicated by the Fourth LED being turned on in standby. It shouldn't be too hard to find yourself.
+            6) Debug information shows both players current scores
+
+*/////  PLEASE ENJOY!! CHECK OUT MORE COOL THINGS AT MY WEBSITE, OR EMAIL ME IF YOU HAVE ANY QUESTIONS \\\\\*
+
+if var.diff == 0
+var.diff = 1
+endif
+
+if var.count1==0 && var.count2 == 0
+if wiimote1.One ==true || wiimote2.One == true
+var.diff = 1
+wiimote1.led4 = false
+wiimote2.led4 = false
+elseif wiimote1.Two == true || wiimote2.Two == true
+var.diff = 2
+wiimote1.led4 = true
+wiimote2.led4 = true
+endif
+endif
+
+if ((wiimote1.Home=true || wiimote1.A = true || wiimote1.B = true)) && ((wiimote2.Home = true) || (wiimote2.A = true) || (wiimote2.B = true))
+var.count1 && var.count2 = 1
+wiimote1.led1 = true
+wiimote2.led2 = true
+if var.diff == 2
+wiimote1.led4 = true
+wiimote2.led4 = true
+endif
+
+endif
+if wiimote1.Home || wiimote2.Home = true || wiimote2.A = true|| wiimote2.A = true || wiimote1.B = true || wiimote2.B = true
+wiimote1.leds = false
+wiimote2.leds = false
+wiimote1.rumble = false
+wiimote2.rumble = false
+endif
+
+if wiimote1.Plus && wiimote1.Minus = true
+var.count1 = 0
+endif
+
+if wiimote2.Plus && wiimote2.Minus = true
+var.count2 = 0
+endif
+
+if (wiimote1.Minus && wiimote2.Minus =true) || (wiimote1.Plus && wiimote2.Minus = true)
+var.count1 = 0
+var.count2 = 0
+endif
+
+if var.count1 && var.count2 != 0
+if wiimote1.RelAcc >10 || wiimote1.RelAcc <-10
+var.count1 = var.count1 + (wiimote1.RawAccZ +wiimote1.RawAccX + wiimote1.RawAccY)^2
+endif
+wiimote1.led1 = var.count1 > 100000*var.diff
+wiimote1.led2 = var.count1 > 200000*var.diff
+wiimote1.led3 = var.count1 > 300000*var.diff
+wiimote1.led4 = var.count1 > 400000*var.diff
+if var.count1 > 500000*var.diff
+wiimote1.rumble = true
+wiimote2.leds = false
+var.count2 = 0
+endif
+endif
+
+if var.count1 && var.count2 != 0
+if wiimote2.RelAcc >10 || wiimote2.RelAcc <-10
+var.count2 = var.count2 + (wiimote2.RawAccZ +wiimote2.RawAccX + wiimote2.RawAccY)^2
+endif
+wiimote2.led1 = var.count2 > 100000*var.diff
+wiimote2.led2 = var.count2 > 200000*var.diff
+wiimote2.led3 = var.count2 > 300000*var.diff
+wiimote2.led4 = var.count2 > 400000*var.diff
+if var.count2 > 500000*var.diff
+wiimote2.rumble = true
+wiimote1.leds = false
+var.count1 = 0
+endif
+endif
+
+/* I was planning somesort of CRAZY attacking system here... maybe in a later version... *\
+if var.count1 <499999 && var.count2 <499999
+wiimote1.rumble = wiimote1.One
+wiimote2.rumble = wiimote1.Two
+wiimote2.rumble = wiimote2.One
+wiimote1.rumble = wiimote2.Two
+endif
+*/
+
+debug = 'Player 1: '+var.count1+' Player 2: '+var.count2
+
+
+/*============================= DELETE THIS LINE TO ENABLE 1P CHEAT CODES
+if wiimote1.DPad = true
+var.count1=var.count+1000000
+endif
+*/
+
+/*============================= DELETE THIS LINE TO ENABLE 2P CHEAT CODES
+if wiimote2.DPad = true
+var.count2=var.count+1000000
+endif
+*/

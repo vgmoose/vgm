@@ -1,0 +1,102 @@
+<title>VGMoose's Hacking Site</title>
+<body bgcolor=black>
+    <style>
+        * {
+    font-family: Century Gothic, Helvetica, Arial, sans-serif;
+        }
+    </style>
+<center>
+    <div style="width:965px">
+<a href="javascript:alert('Where does the time go?\nI don\'t know.\nI don\'t know.');"><img height=112 width=120 src="bannerpiece.png"></a><iframe style="overflow:none;" scrolling=no width=570 height=112 src="external.html" frameborder="no"></iframe><a href="javascript:alert('&#12288;  &#65295;l&#12289;\n &#65288;&#65439;&#65380; &#65377; &#65303;\n&#12288;l&#12289;&#65438; ~&#12541;\n&#12288;&#12376;&#12375;f_, )&#12494;')"><img src="bannerlarge.png"></a>
+<br>
+<img height=60 src="top.png" width=345><img src="header.png"><img src="top.png" width=345 height=60>
+<br>
+<div id="menu">
+<img src="dash.png">
+<a href="home.html" target="content"><img src="home.png" class="shakeimage" onMouseover="init(this);rattleimage()" onMouseout="stoprattle(this);top.focus()" onClick="top.focus();playSound()"></a>
+<img src="dash.png">
+<a href="http://vgmoose.github.com/vgmoose.com" target="content"><img src="blog.png" class="shakeimage" onMouseover="init(this);rattleimage()" onMouseout="stoprattle(this);top.focus()" onClick="top.focus();playSound()"></a>
+<img src="dash.png">
+<a href="http://vgmoose.com/Videos/Videos.html" target="content"><img src="videos.png" class="shakeimage" onMouseover="init(this);rattleimage()" onMouseout="stoprattle(this);top.focus()" onClick="top.focus();playSound()"></a>
+<img src="dash.png">
+<a href="http://vgmoose.com/Downloads/Downloads.html" target="content"><img src="tools.png" class="shakeimage" onMouseover="init(this);rattleimage()" onMouseout="stoprattle(this);top.focus()" onClick="top.focus();playSound()"></a>
+<img src="dash.png">
+<a href="tut.html" target="content"><img src="glovepie.png" class="shakeimage" onMouseover="init(this);rattleimage()" onMouseout="stoprattle(this);top.focus()" onClick="top.focus();playSound()"></a>
+<img src="dash.png">
+<a href="100.html" target="content"><img src="100.png" class="shakeimage" onMouseover="init(this);rattleimage()" onMouseout="stoprattle(this);top.focus()" onClick="top.focus();playSound()"></a>
+<img src="dash.png">
+<a href="contact.html" target="content"><img src="contact.png" class="shakeimage" onMouseover="init(this);rattleimage()" onMouseout="stoprattle(this);top.focus()" onClick="top.focus();playSound()"></a>
+<img src="dash.png">
+    </div>
+<br><br>
+<iframe src="home.html" frameborder=no name="content" width=965 height=700></iframe>
+<br>
+<img src="bottom.png" width=965 height=60>
+</body>
+<br>
+<font color=white>&copy; 2008 VGMoose Productions</font>
+    </div>
+</center>
+
+<style>
+.shakeimage{
+position:relative
+}
+</style>
+<script language="JavaScript1.2">
+
+/*
+Shake image script (onMouseover)- 
+© Dynamic Drive (www.dynamicdrive.com)
+For full source code, usage terms, and 100's more DHTML scripts, visit http://dynamicdrive.com
+*/
+
+//configure shake degree (where larger # equals greater shake)
+var rector=3
+
+///////DONE EDITTING///////////
+var stopit=0 
+var a=1
+
+function init(which){
+stopit=0
+shake=which
+shake.style.left=0
+shake.style.top=0
+}
+
+function rattleimage(){
+if ((!document.all&&!document.getElementById)||stopit==1)
+return
+if (a==1){
+shake.style.top=parseInt(shake.style.top)+rector+"px"
+}
+else if (a==2){
+shake.style.left=parseInt(shake.style.left)+rector+"px"
+}
+else if (a==3){
+shake.style.top=parseInt(shake.style.top)-rector+"px"
+}
+else{
+shake.style.left=parseInt(shake.style.left)-rector+"px"
+}
+if (a<4)
+a++
+else
+a=1
+setTimeout("rattleimage()",50)
+}
+    
+function playSound()
+{
+    var audio = new Audio('beep2.wav');
+    audio.play();
+}
+
+function stoprattle(which){
+stopit=1
+which.style.left=0
+which.style.top=0
+}
+
+</script>

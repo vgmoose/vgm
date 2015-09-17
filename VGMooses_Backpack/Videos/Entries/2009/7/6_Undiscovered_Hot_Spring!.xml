@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 20:47:26 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Shameless Child Molesting puns!&#xD;&#xD;Also, there&#x2019;s a typo in the screenshot, which just can&#x2019;t possibly be a good thing. This was made rather quickly and just mixed together with a bunch of old jokes.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, July 6, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Undiscovered Hot Spring!&lt;/b&gt;</richText>
+  </textBox>
+</content>

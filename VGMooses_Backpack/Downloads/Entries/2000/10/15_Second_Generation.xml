@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="280EE85D-4A2D-4E18-94E1-A0B4E51CDB22">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:25 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This generation includes, and is limited to: Pok&#xE9;mon Gold, Silver, and Crystal. The game engine is similar to first generation as they are both on the Game Boy. Click the banner or link below to proceed to the download.&#xD;&#xD;&lt;/b&gt;&lt;b&gt;Second Generation Hacking tools download link:&#xD;&lt;/b&gt;&lt;b&gt;&lt;a href="http://tinyurl.com/2vgtools"&gt;http://tinyurl.com/2vgtools&#xD;&lt;/a&gt;&lt;/b&gt;&lt;b&gt;&#xD;Download a specific tool or view unarchived package:&#xD;&lt;/b&gt;&lt;b&gt;&lt;a href="http://tinyurl.com/2vgviewer"&gt;http://tinyurl.com/2vgviewer&#xD;&lt;/a&gt;&lt;/b&gt;&lt;b&gt;&#xD;Included in this pack:&#xD;&lt;/b&gt;&lt;b&gt;	-	AGIXP - Graphical Editor, extract and edit&#xD;	-	GoldMap - Overworld map editor for Gold and Silver&#xD;	-	Goldtweak - Tweak the introduction movie of G/S&#xD;	-	GS Mart Editor - Edit marts in G/S&#xD;	-	GSC TM Editor - Edit TMS in GSC&#xD;	-	ItemEd GSC - Edit items in GSC&#xD;	-	MegaMap - Another overworld editor&#xD;	-	pgsev10 - Sprite editor&#xD;	-	poketext - Edit text in Gen II. Also functions for Gen I&#xD;	-	StartEd GSC - Edit starters in GSC&#xD;	-	TradeEd GSC - Edit in game trades in GSC&#xD;	-	Visual Boy Linker - Gameboy emulator with link cable properties&#xD;&lt;/b&gt;&lt;b&gt;&#xD;A brief readme is also included containing references to anything you might need later.&#xD;&#xD;&lt;/b&gt;&lt;b&gt;&lt;a href="http://www.doperoms.com"&gt;Need a ROM?&lt;/a&gt;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;October 15, 2000&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Second Generation&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="15_Second_Generation_files/secondhax.jpg" left="0px" top="0px" width="665px" height="114px"/>
+</content>

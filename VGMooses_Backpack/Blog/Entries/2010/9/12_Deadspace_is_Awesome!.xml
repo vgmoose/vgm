@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A81521E2-A797-4952-8D85-F3CD3D0638EF">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 21:54:31 -0500"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;In Which Deadspace is Awesome&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, September 12, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Okay, well now that I have your attention, (or not), the Comments and Downloads sections are up! I&#x2019;m still working on slowly adding all of the Videos to the video page. It&#x2019;s not an easy, task; I may just forget doing full power descriptions as I&#x2019;ve been doing. Is that even how you use a semicolon? I don&#x2019;t think it is...&#xD;&#xD;Uh, oh yeah. In order to make this an actual &#x201C;blog&#x201D; entry or whatever I need to like talk about something generic. LIKE DEADSPACE OMG. Deadspace Extraction. I played with a friend last night through the co-op story mode (11 PM to 7 AM, if you&#x2019;re curious), and it did not let us down on the creep factor. I can&#x2019;t decide if the rail shooter aspect added or detracted from the experience, but it was pretty awesome. I WOULD RECOMMEND IT TO YOU. OR ELSE&#xD;&#xD;Yes, that is all. I might add more depth to the backpack page if it becomes necessary.&lt;/b&gt;</richText>
+  </textBox>
+</content>

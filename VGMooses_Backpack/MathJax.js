@@ -1,0 +1,1 @@
+/home/rickayo0/public_html/ups/MathJax.js

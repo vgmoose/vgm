@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 20:47:28 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This one is moderately funny. The ending and title though are horribly unfitting and awful. I think what happened is that I was going to go somewhere with it, but then realized that I didn&#x2019;t know how to do that yet, and had to turn to crack to end it good. Or not. LOLMFAO.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, July 4, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Crack is Whack&lt;/b&gt;</richText>
+  </textBox>
+</content>

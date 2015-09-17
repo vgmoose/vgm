@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 20:47:29 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Now brought to you in pink! But seriously, at least I entered knowing that the Interactive adventure may not be completed. Also, the reason why I have kept this update, as opposed to the other updates which I have removed from public, is purely due to the pink. Also the fat guy.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, April 17, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Preloader to Interactive Adventure&lt;/b&gt;</richText>
+  </textBox>
+</content>

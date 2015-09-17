@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 20:47:26 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This is a personal favorite for obvious reasons. The introduction is a little bit long winded, but it really does help establish the joke at the end. The battle scene also went perfectly, which rarely ever happens to me. Also, yes, Yellow is May. DUH.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, July 4, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;What if FireRed wasn&#x2019;t a Remake?&lt;/b&gt;</richText>
+  </textBox>
+</content>

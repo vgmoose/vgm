@@ -1,0 +1,105 @@
+'-------------------------------------
+'Boxset types
+
+#define BOXSET_OBTAIN 0x0
+#define BOXSET_FIND 0x1
+#define BOXSET_STANDARD 0x2
+#define BOXSET_SIGNPOST 0x3
+#define BOXSET_DONTCLOSE 0x4
+#define BOXSET_YESNO 0x5
+#define BOXSET_NORMAL 0x6
+
+'-------------------------------------
+
+#define LASTRESULT 0x800D
+
+#define SPRITEMOVE_INDEX 0x8008
+#define SPRITEMOVE_NEWXPOS 0x8009
+#define SPRITEMOVE_NEWYPOS 0x800A
+
+#define PLAYERFACING 0x800C
+#define FACING_DOWN 0x1
+#define FACING_UP 0x2
+#define FACING_LEFT 0x3
+#define FACING_RIGHT 0x4
+
+#define LASTTALKED 0x800F
+
+#define MOVE_PLAYER 0xFF
+#define MOVE_CAMERA 0x7F
+
+'-------------------------------------
+'Some specials
+
+#define SPECIAL_HEALPKMN 0x0
+#define SPECIAL_CHOOSEPOKEMON 0x9C
+#define SPECIAL_PKMNCATCH 0x9D
+
+#define SPECIAL_FRNATIONALDEX 0x16F
+#define SPECIAL_EMNATIONALDEX 0x1F3
+
+'-------------------------------------
+
+#define B_FALSE 0x0
+#define B_TRUE 0x1
+
+#define B_NO 0x0
+#define B_YES 0x1
+
+#define B_BOY 0x0
+#define B_GIRL 0x1
+
+'-------------------------------------
+'General flags
+
+#define RSMENU_PKMN 0x800
+#define RSMENU_POKEDEX 0x801
+#define RSMENU_POKENAV 0x802
+
+#define EMMENU_PKMN 0x860
+#define EMMENU_POKEDEX 0x861
+#define EMMENU_POKENAV 0x862
+
+#define FRMENU_PKMN 0x828
+#define FRMENU_POKEDEX 0x829
+#define RUNNING_SHOES 0x82F
+
+'-------------------------------------
+'Badges
+
+#define RSBADGE_1 0x807
+#define RSBADGE_2 0x808
+#define RSBADGE_3 0x809
+#define RSBADGE_4 0x80A
+#define RSBADGE_5 0x80B
+#define RSBADGE_6 0x80C
+#define RSBADGE_7 0x80D
+#define RSBADGE_8 0x80E
+
+#define EMBADGE_1 0x867
+#define EMBADGE_2 0x868
+#define EMBADGE_3 0x869
+#define EMBADGE_4 0x86A
+#define EMBADGE_5 0x86B
+#define EMBADGE_6 0x86C
+#define EMBADGE_7 0x86D
+#define EMBADGE_8 0x86E
+
+#define FRBADGE_1 0x820
+#define FRBADGE_2 0x821
+#define FRBADGE_3 0x822
+#define FRBADGE_4 0x823
+#define FRBADGE_5 0x824
+#define FRBADGE_6 0x825
+#define FRBADGE_7 0x826
+#define FRBADGE_8 0x827
+
+'-------------------------------------
+'Extra conditions for IF command
+
+#define B_<< 0x0 'lower
+#define B_== 0x1 'equal
+#define B_>> 0x2 'higher
+#define B_<= 0x3 'lower or equal
+#define B_>= 0x4 'higher or equal
+#define B_!= 0x5 'not equal

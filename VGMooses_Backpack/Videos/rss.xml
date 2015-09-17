@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>VGMoose’s Videos</title>
+    <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Videos.html</link>
+    <description>Here’s what I’m pretty much known for. Videos of hacks that I’ve personally made!&lt;br/&gt;These are all on YouTube, but the raw file archive is available here.&lt;br/&gt;</description>
+    <generator>iWeb 3.0.3</generator>
+    <image>
+      <url>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Videos_files/Videos%20Banner.jpg</url>
+      <title>VGMoose’s Videos</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Videos.html</link>
+    </image>
+    <item>
+      <title>Custom Sprite Insertion</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2011/3/31_Custom_Sprite_Insertion.html</link>
+      <guid isPermaLink="false">8958f84b-a92c-4c8c-9e74-7a946db690e0</guid>
+      <pubDate>Thu, 31 Mar 2011 01:06:15 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_43.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This was simply a test of custom sprite insertion into Heart gold and Soul silver, which was mildly successful.&lt;br/&gt;&lt;br/&gt;Yes, it is Justin Bieber.&lt;br/&gt;&lt;br/&gt;More to come.</description>
+    </item>
+    <item>
+      <title>Pokémon Black Introduction</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2011/2/26_Pokemon_Black_Introduction.html</link>
+      <guid isPermaLink="false">b95e0dff-7837-4e4e-b459-8b42f489a061</guid>
+      <pubDate>Sat, 26 Feb 2011 06:42:40 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_43.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This was also alluded to previously with the initial hack that showed it was possible.&lt;br/&gt;&lt;br/&gt;The process for hacking fifth gen is very similar to fourth, at least as far as text is concerned.&lt;br/&gt;&lt;br/&gt;Fortunately text hacking is teh bestest. These games have still yet to come out in america, so once they do we’ll see what the community does as far as scripts and the like.&lt;br/&gt;&lt;br/&gt;Most of this video was composed using pptxt, by SCV. It’s a very limited, but effective text editor. You can try this out yourself with the fifth gen download on the downloads page. The text .narcs for black and white are in a/0/0/2 and a/0/0/3. (2 contains elements like items and the intro while 3 continues much of the main story).</description>
+    </item>
+    <item>
+      <title>Better Rocket Uniform Patch</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2011/2/23_Better_Rocket_Uniform_Patch.html</link>
+      <guid isPermaLink="false">1fe3ed7c-9554-429d-8817-5c4d66d9f945</guid>
+      <pubDate>Wed, 23 Feb 2011 23:27:59 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/Default_2.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:116px;&quot;/&gt;Well, this is a little bit better. The advantages over the first one I did, besides being an actual downloadable patch, include a nice clean script interface, and also some fancy hexing footwork around some of the limitations of the uniform (i.e. inability to fly.) Unfortunately, as soon as I removed the inability, I found out why it was there in the first place– the Rocket Uniform is temporary and wares off when the character changes sprites.&lt;br/&gt;&lt;br/&gt;I was pretty disappointed when I found this out, but the event is rather nice and clean and I had already put the effort into it so I’m sharing it anyway.&lt;br/&gt;&lt;br/&gt;To perfect his hack, short of modifying every single revert to original sprites check if the Rocket Uniform is on, would probably require an item. That way if the uniform were removed it could be put back on instantly. Also using the phone could work. I don’t have HEX offsets for either of those... however... so...&lt;br/&gt;&lt;br/&gt;Well, darn. Maybe later.</description>
+    </item>
+    <item>
+      <title>Impromptu Rocket Uniform Implementation</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2011/2/22_Impromptu_Rocked_Uniform_Implementation.html</link>
+      <guid isPermaLink="false">8941c87c-442d-4d7c-bda6-6c57da3b21fb</guid>
+      <pubDate>Tue, 22 Feb 2011 11:53:22 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_44.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Wow, those are a lot of big words. Anyway, this is just a jerry-rigged version of an option to take on and off the Rocket uniform controlled by the player.&lt;br/&gt;&lt;br/&gt;When I was playing through this games, i wondered why this wasn’t an option and the idea for this immediately came to me.&lt;br/&gt;&lt;br/&gt;I’d like to see it on some item, as I don’t know about the side-effects it has with the story, so we’ll see.&lt;br/&gt;&lt;br/&gt;Patch coming soon, regardless of the side-effects, most likely.</description>
+    </item>
+    <item>
+      <title>Limping into Fourth Gen</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2011/2/21_Entry_1.html</link>
+      <guid isPermaLink="false">88c391b4-e4b3-4ea1-8631-ba24a4b5bb70</guid>
+      <pubDate>Mon, 21 Feb 2011 11:51:11 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_45.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;What was first just a mistake in laying down the sprites in Soul Silver, I decided to record and make this video.&lt;br/&gt;&lt;br/&gt;It looks like the character is “limping” into fourth gen, kind of like Duster from Mother 3.&lt;br/&gt;&lt;br/&gt;I’ve since fixed this, but it has stirred my brain for an Earthbound crossover...&lt;br/&gt;&lt;br/&gt;I mean, what?</description>
+    </item>
+    <item>
+      <title>Pokémon Black Hack</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2011/2/20_Pokemon_Black_Hack.html</link>
+      <guid isPermaLink="false">11eb8169-a5f9-4b7b-be06-cb2878f30de9</guid>
+      <pubDate>Sun, 20 Feb 2011 11:50:05 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_46.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Just testing the waters. As you can see, I did mess up, but the process is remarkably similar to fourth gen, so you can expect progress to carry over as soon as they are released in America.</description>
+    </item>
+    <item>
+      <title>Pokémon Soul Silver Introduction</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2011/2/18_Pokemon_Soul_Silver_Introduction.html</link>
+      <guid isPermaLink="false">73a17320-2bb5-4efa-8f02-0fe2baeca883</guid>
+      <pubDate>Fri, 18 Feb 2011 07:43:47 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_47.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This is it! The start of fourth generation hacking! After much work I have finally figured out how to edit text in it... It was kind of complicated too.&lt;br/&gt;&lt;br/&gt;Maybe I’ll get a tutorial up soon, but I don’t know.&lt;br/&gt;&lt;br/&gt;The actual content of this video is pretty much you’d expect from an introduction hack. The two screens do pan when necessary, although I can’t imagine that will be required in areas that aren’t The Intro.&lt;br/&gt;&lt;br/&gt;Map editing coming soon? No clue, but perhaps Black and White if the process is similar enough...</description>
+    </item>
+    <item>
+      <title>Play as Gym Leader in FireRed</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2011/2/2_Play_as_Gym_Leader_in_FireRed.html</link>
+      <guid isPermaLink="false">817c6a81-1bc5-41a3-a306-e096a8e81540</guid>
+      <pubDate>Wed, 2 Feb 2011 07:41:36 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_48.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This video is a good one! You should be sure to watch all of it!&lt;br/&gt;&lt;br/&gt;But seriously, I had the idea for this and I just couldn’t resist. It’s kind of completely true once you think about it...&lt;br/&gt;&lt;br/&gt;There is actually a little bit of hacking involved here– about one or two minutes into the video the antagonist tries to move but finds that he is unable to. &lt;br/&gt;&lt;br/&gt;Lol?</description>
+    </item>
+    <item>
+      <title>Ash Goes To Unova!</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2010/11/22_Ash_Goes_To_Unova%21.html</link>
+      <guid isPermaLink="false">2b3c3c13-374c-40ee-90c0-e491671cd893</guid>
+      <pubDate>Mon, 22 Nov 2010 22:16:50 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_49.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This is a good one! Written almost entirely by whatsherface, with the exception of myself who chose to incorporate Bill in on the shenanigans along with the secret garden.&lt;br/&gt;&lt;br/&gt;Unova is the new region in case you haven’t heard already. It was just announced today!</description>
+    </item>
+    <item>
+      <title>S.S. Anne Team Rocket Event!</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2010/8/17_S.S._Anne_Team_Rocket_Event%21.html</link>
+      <guid isPermaLink="false">c9684012-d147-4e91-9488-c494c213ffb0</guid>
+      <pubDate>Tue, 17 Aug 2010 16:07:45 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_50.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This is a cool video, I promise. I was going for sort of a sense of “realism” here. Does that even mean anything in this “field?” Probably not, but like, I think it’s really cool, so you should too. Unfortunately, during the battle Ash’s PIkachu actually gets defeated by a Wobbuffet... but oh well. Another thing, Escape Ropes don’t actually work in this area... so I had to modify them to be able to. One last little bonus: there actually is an item where Ash’s Pikachu is found. It’s a Lava Cookie. You can get it by trading to get HM05 Flash instead of getting it from the Captain, and then returning later in the game when you have HM04 Surf.</description>
+    </item>
+    <item>
+      <title>Why RED Can't Talk in HG/SS</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2010/8/7_Why_RED_cant_talk_in_HG_SS.html</link>
+      <guid isPermaLink="false">4999f524-b0bd-49b1-805e-83fb30bb9dff</guid>
+      <pubDate>Sat, 7 Aug 2010 17:31:19 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_51.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Now, I don’t know about this one. It’s something entirely different but also something that I’ve been wanting to try for a while. Benv20 contacted me about doing some sort of collab, and he offered me his voice, which I so eagerly accepted. I hope the joke comes across. Also, I’m so silly, for I removed the background music instead of lowering it. And another thing, I don’t even think that the title makes sense! I mean, it might. Also, he isn’t a Voice Actor if it’s just himself. That’s silly. Benv20 is the Voice Actor, RED is the character...</description>
+    </item>
+    <item>
+      <title>New Eevee Types in Pokémon Emerald!</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2010/8/7_New_Eevee_Types_in_Pokemon_Emerald%21.html</link>
+      <guid isPermaLink="false">397008a0-8e15-49ed-ae50-77f849e529c7</guid>
+      <pubDate>Sat, 7 Aug 2010 17:08:08 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_52.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This is another cool one! The idea is that science is wrong, or something. This one also has that sort of “realistic” tone to it. The sprites were hard to get in though... The Robo-Eevee one was more customly made, but the Ghost-Eevee was pretty much completely stolen from somebody through Google Images... OH WELL. This one should send shivers down your spine... and if it doesn’t, well, too bad. ALSO THE IDEA FOR THE HACK WAS STOLEN FROM THE GIRL. Whatever that means. Also, please notice that the Robo-Eevee has no nature, and that the ghost Eevee has the same nature as the one that “died.”</description>
+    </item>
+    <item>
+      <title>From a Realistic Perspective...</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/7/21_Entry_1.html</link>
+      <guid isPermaLink="false">f661dcb7-7e51-4980-afdf-70ccacb5072f</guid>
+      <pubDate>Tue, 21 Jul 2009 21:07:54 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_53.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Okay, this involves fighting Team Rocket under realistic conditions. I mean, they’re like a mafia and stuff or something, so they just totally would kill you and your pathetic Pokémon. Then again, I think a Pokémon would realistically just trump a gun... but... oh well, it’s funny! I hope... Enjoy!</description>
+    </item>
+    <item>
+      <title>Secret Area in Pacifidlog Town</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/7/17_Entry_1.html</link>
+      <guid isPermaLink="false">f76278d3-ed70-4901-8b78-003090b347bf</guid>
+      <pubDate>Fri, 17 Jul 2009 21:12:46 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_54.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This is another one of those hype videos that’s supposed to trick people into thinking there’s actually something there that they missed. However, it quickly loses that in the second part (when you click on the annotation) and everything is quickly revealed to fall apart. Hehe, it’s still funny though!</description>
+    </item>
+    <item>
+      <title>I Hate it When This Happens</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/7/8_Entry_1.html</link>
+      <guid isPermaLink="false">46f2bafd-b0d0-4c65-bd59-76f58ef6c8f8</guid>
+      <pubDate>Wed, 8 Jul 2009 21:18:26 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_55.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;I hate it when this happens. Like seriously, it screws up the rest of my week!&lt;br/&gt;&lt;br/&gt;This one’s a quicky but I love it!!</description>
+    </item>
+    <item>
+      <title>Hi.</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/7/6_Hi..html</link>
+      <guid isPermaLink="false">db34200f-4e93-4994-833b-40bcb18ea14e</guid>
+      <pubDate>Mon, 6 Jul 2009 17:29:19 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_56.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Can you believe that I actually did four hacks in one day? Well, I guess they were all pretty low quality. This one is cool because it uses magic to say cool things that are awesome all of the time forever.</description>
+    </item>
+    <item>
+      <title>Ask Deoxys: PC or Mac?</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/7/6_Ask_Deoxys__PC_or_Mac.html</link>
+      <guid isPermaLink="false">1fa419b7-f069-41b9-8715-e964f3e387d7</guid>
+      <pubDate>Mon, 6 Jul 2009 17:24:37 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_57.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Wow, it’s funny to watch this one now that I actually own a Mac... Anyway, it was apparently supposed to be a part of some “Ask Deoxys” series that evidently did not go through... Whatever.</description>
+    </item>
+    <item>
+      <title>Littleroot Town had Potential...</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/7/6_Littleroot_Town_had_Potential....html</link>
+      <guid isPermaLink="false">7aaa0d43-d4ed-4e2a-bde8-a471ae79cbbf</guid>
+      <pubDate>Mon, 6 Jul 2009 17:23:26 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_58.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;(to be so much better)&lt;br/&gt;&lt;br/&gt;Another one from a series of quickies. I really do enjoy the end pun on this one. It’s both random and cute! Like, totally d’aww man!</description>
+    </item>
+    <item>
+      <title>Undiscovered Hot Spring!</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/7/6_Undiscovered_Hot_Spring%21.html</link>
+      <guid isPermaLink="false">a231afe0-5161-4dd7-9097-edf28de145a2</guid>
+      <pubDate>Mon, 6 Jul 2009 17:19:49 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_59.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Shameless Child Molesting puns!&lt;br/&gt;&lt;br/&gt;Also, there’s a typo in the screenshot, which just can’t possibly be a good thing. This was made rather quickly and just mixed together with a bunch of old jokes.</description>
+    </item>
+    <item>
+      <title>What if FireRed wasn’t a Remake?</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/7/4_What_if_FireRed_wasnt_a_Remake.html</link>
+      <guid isPermaLink="false">2ab4f746-c4e0-48ff-a5db-fd70744ccc58</guid>
+      <pubDate>Sat, 4 Jul 2009 23:08:20 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_60.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This is a personal favorite for obvious reasons. The introduction is a little bit long winded, but it really does help establish the joke at the end. The battle scene also went perfectly, which rarely ever happens to me. Also, yes, Yellow is May. DUH.</description>
+    </item>
+    <item>
+      <title>Crack is Whack</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/7/4_Crack_is_Whack.html</link>
+      <guid isPermaLink="false">aa9f68ae-9643-42a2-899f-d35bc43916e9</guid>
+      <pubDate>Sat, 4 Jul 2009 17:31:08 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_61.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This one is moderately funny. The ending and title though are horribly unfitting and awful. I think what happened is that I was going to go somewhere with it, but then realized that I didn’t know how to do that yet, and had to turn to crack to end it good. Or not. LOLMFAO.</description>
+    </item>
+    <item>
+      <title>Unrequited Love</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/5/14_Unrequited_Love.html</link>
+      <guid isPermaLink="false">8ba2abd2-6edc-4648-b591-1245b24798ec</guid>
+      <pubDate>Thu, 14 May 2009 17:33:44 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_62.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;No, not for me you silly noob! For this contest thing I entered. Yeah, this video will not make any sense at all to you. I can practically guarantee that.&lt;br/&gt;&lt;br/&gt;I thought I did a pretty good job though!</description>
+    </item>
+    <item>
+      <title>Interactive Adventure</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/4/18_Interactive_Adventure.html</link>
+      <guid isPermaLink="false">0da94017-fa69-49ae-b3f2-1f22bd265216</guid>
+      <pubDate>Sat, 18 Apr 2009 17:35:37 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_63.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Yes. Here it is. The famous start of the Interactive Adventure. About half of it is done as of this time of writing, hopefully it’ll all be complete eventually, however. Even more hopefully, nobody is reading this anyway. Soooo, yeah.</description>
+    </item>
+    <item>
+      <title>Preloader to Interactive Adventure</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/4/17_Entry_1.html</link>
+      <guid isPermaLink="false">079da146-b4f9-4165-b39f-e5d1b28ccb9a</guid>
+      <pubDate>Fri, 17 Apr 2009 17:39:39 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_64.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Now brought to you in pink! But seriously, at least I entered knowing that the Interactive adventure may not be completed. Also, the reason why I have kept this update, as opposed to the other updates which I have removed from public, is purely due to the pink. Also the fat guy.</description>
+    </item>
+    <item>
+      <title>Secret Winter Wonderland</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/1/29_Secret_Winter_Wonderland.html</link>
+      <guid isPermaLink="false">f8be7b0f-f295-4811-b992-6743049a726c</guid>
+      <pubDate>Thu, 29 Jan 2009 17:43:57 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_65.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This one is amazing. I kid you not! Okay, maybe I kid you a little bit, but still. I really liked the idea here. The ending may have been a bit shameless and distasteful but whatevs. You gotta break a few hearts in the humor bizz. amirite?</description>
+    </item>
+    <item>
+      <title>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2009/1/27.html</link>
+      <guid isPermaLink="false">03059643-c73c-4223-a243-5fe4df649106</guid>
+      <pubDate>Tue, 27 Jan 2009 17:45:52 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_66.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</description>
+    </item>
+    <item>
+      <title>PokéGod: Charcoalt</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/11/27_PokeGod__Charcoalt.html</link>
+      <guid isPermaLink="false">d5f45842-384a-439c-87c6-c781acb8e66a</guid>
+      <pubDate>Thu, 27 Nov 2008 17:52:07 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_67.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Oh look, another thing that appears to have been supposed to be turned into a series. That’s unfortunate. This one is actually rather popular and well-received for some reason. It’s based off those old rumors that you (or at least I) always heard as a kid that described these super crazy 4th stage evo things that would just be liek “ohai, I will pwn u.” This looks believable right?!</description>
+    </item>
+    <item>
+      <title>Widescreen</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/11/25_Widescreen.html</link>
+      <guid isPermaLink="false">b0eedf18-19fc-4b68-bfff-18bba0f41d70</guid>
+      <pubDate>Tue, 25 Nov 2008 17:54:38 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_68.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This was originally just thrown together as a test for Youtube’s new widescreen format. Unfortunately, since then they have changed the widescreen dimensions to be even longer. I assure you though, the more recent hacks fit that new format!</description>
+    </item>
+    <item>
+      <title>New Cody!</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/11/22_New_Cody%21.html</link>
+      <guid isPermaLink="false">a1a09824-9fed-41ce-b67e-2de8f67de8ff</guid>
+      <pubDate>Sat, 22 Nov 2008 17:58:19 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_69.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Here’s a series of seven videos that detail the process of me experimenting with Pokémon Emerald and the way in which it handles sprites. You can view the Tutorial for this up above!</description>
+    </item>
+    <item>
+      <title>Pokémon Firered: Retexted Edition</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/10/28_Pokemon_Firered__Retexted_Edition.html</link>
+      <guid isPermaLink="false">e3966861-0e48-400f-8432-e1070a83d33a</guid>
+      <pubDate>Tue, 28 Oct 2008 18:01:56 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_70.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Sigh, another failed project. This one was a good one too. It was actually going to be playable! There are five parts, each a video response to the video to the right. &lt;br/&gt;&lt;br/&gt;Man I liked this... Maybe I’ll pick it up again. Maybe. (I won’t). To see how to edit your own text, check out the tutorials!</description>
+    </item>
+    <item>
+      <title>Preloader to Retexted</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/10/27_Preloader_to_Retexted.html</link>
+      <guid isPermaLink="false">d8bd9c5d-e079-437d-b74e-99ffb3c6b0ae</guid>
+      <pubDate>Mon, 27 Oct 2008 18:04:29 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_71.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;I believe that this is what inspired Pokémon Retexted. This was just a quick random hack, but somebody had told me that I should try to retext the whole game. So I did. Try, that is. WHATEVER.</description>
+    </item>
+    <item>
+      <title>Pokémon Emerald: Multiplayer Style</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/8/1_Pokemon_Emerald__Multiplayer_Style.html</link>
+      <guid isPermaLink="false">29db3d08-176a-4dd6-a14a-dc47f379abb4</guid>
+      <pubDate>Fri, 1 Aug 2008 18:06:36 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_72.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;I don’t have many vids that make people go liek OMFG THAT IS AMAZING. But if anything would do it, it’s this one. Multiplayer is something that people have been dying to see in the games, and here’s what it would look like! &lt;br/&gt;&lt;br/&gt;This actually has four VBAs linked to each other, two set to arrow keys and the other two set to WASD controls. It’s pretty cool!</description>
+    </item>
+    <item>
+      <title>Pokémon Red Hack</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/7/30_Pokemon_Red_Hack.html</link>
+      <guid isPermaLink="false">627721a2-45ff-48c9-b388-f12059741c40</guid>
+      <pubDate>Wed, 30 Jul 2008 18:10:45 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_73.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Here’s something you don’t see every day. Really! It’s a similar process to editing the other games, except with a lot less options. I think this one is pretty funny! Watch it!&lt;br/&gt;&lt;br/&gt;It was also featured on some popular Pokémon blog whose name escapes me. But that’s still cool, right?!</description>
+    </item>
+    <item>
+      <title>Classic Pokémon Emerald Version</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/7/25_Classic_Pokemon_Emerald_Version.html</link>
+      <guid isPermaLink="false">47792376-fe34-4c61-abf2-90c5a8158c8f</guid>
+      <pubDate>Fri, 25 Jul 2008 18:13:39 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_74.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This one’s also pretty amazing. A couple of people complained that I could have gone a little further but, whatever. I think it’s nice just the way it is!!</description>
+    </item>
+    <item>
+      <title>Porygon-Z in Emerald Version</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/7/24_Porygon-Z_in_Emerald_Version.html</link>
+      <guid isPermaLink="false">b253b015-f3c6-4631-ba23-52166b44e411</guid>
+      <pubDate>Thu, 24 Jul 2008 18:14:58 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_75.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Another favorite! My all time favorite Pokémon hacked into Pokémon Emerald! I believe I fooled some people... maybe. I mean, it looks legit! LEFRIGGINGIT.</description>
+    </item>
+    <item>
+      <title>A Fresh Quest</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/7/20_A_Fresh_Quest.html</link>
+      <guid isPermaLink="false">6ce1837b-90a9-45b7-9a60-a48c4a9903ec</guid>
+      <pubDate>Sun, 20 Jul 2008 18:16:39 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_76.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Too bad this fresh quest didn’t last very long... Cool opening though! I should do that more often!</description>
+    </item>
+    <item>
+      <title>A New Beginning</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/7/17_A_New_Beginning.html</link>
+      <guid isPermaLink="false">f94ad2d2-b83c-49a7-a2c2-bfdc22d71127</guid>
+      <pubDate>Thu, 17 Jul 2008 18:33:25 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_77.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Like the one above it except better and with a cooler opening. I’M SERIOUS.</description>
+    </item>
+    <item>
+      <title>The Wiitrix</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/7/2_The_Wiitrix.html</link>
+      <guid isPermaLink="false">637cc59b-823d-454a-bb21-77b0ac242f2d</guid>
+      <pubDate>Wed, 2 Jul 2008 18:35:17 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_78.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Another timeless classic! No really, this one is great! It’s so random! SO AWSOME THOUGH. Bagels!</description>
+    </item>
+    <item>
+      <title>Internet Memes Argument (Part 1/1)</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/6/29_Internet_Memes_Argument_%28Part_1_1%29.html</link>
+      <guid isPermaLink="false">2429df51-460c-4cbd-a235-e4dd800876f9</guid>
+      <pubDate>Sun, 29 Jun 2008 18:38:49 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_79.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Yeah, that’s part one out of one because IT’S SO UNFINISHED. ;_;</description>
+    </item>
+    <item>
+      <title>NEW POKÉMON HACK</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/6/25_NEW_POKEMON_HACK.html</link>
+      <guid isPermaLink="false">355ec3db-1f49-405b-a797-6cb928460a33</guid>
+      <pubDate>Wed, 25 Jun 2008 18:40:23 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/Default_3.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:116px;&quot;/&gt;Dude, this one blew my mind. Missingno. or something like that!</description>
+    </item>
+    <item>
+      <title>Pikachu’s Journey</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/4/30_Pikachus_Journey.html</link>
+      <guid isPermaLink="false">0528fca6-ae08-4411-a01d-6e339514b6a0</guid>
+      <pubDate>Wed, 30 Apr 2008 18:41:54 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_80.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This one’s pretty funny. It’s original to say the least!&lt;br/&gt;&lt;br/&gt;It’s also worthy of this:&lt;br/&gt;&lt;br/&gt;</description>
+    </item>
+    <item>
+      <title>Mewtwo: Public Service Announcement</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/4/28_Mewtwo__Public_Service_Announcement.html</link>
+      <guid isPermaLink="false">50a3956d-0a23-4db7-9af0-1c3b67551ead</guid>
+      <pubDate>Mon, 28 Apr 2008 18:52:29 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_81.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Oh look! It’s another thing that was supposed to be continued in some other form!</description>
+    </item>
+    <item>
+      <title>Nostalgia</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/4/28_Nostalgia.html</link>
+      <guid isPermaLink="false">650484ca-90b6-4b6e-862f-64f1a9e5b57e</guid>
+      <pubDate>Mon, 28 Apr 2008 18:48:37 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_82.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This one was requested by Kevin himself. I think it looks cool. It was my user icon for quite some time. UNTIL I OUTGREW IT, THAT IS.</description>
+    </item>
+    <item>
+      <title>Super Smash Bros Brawl</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2008/3/8_Super_Smash_Bros_Brawl.html</link>
+      <guid isPermaLink="false">9a647f36-93b4-437d-a39d-27298d136fc4</guid>
+      <pubDate>Sat, 8 Mar 2008 18:53:58 -0500</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_83.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;This one had a ton of hype, as you would expect, on the day before it came out. Then it kind of dropped in importance. But it was fun while the rush lasted!</description>
+    </item>
+    <item>
+      <title>Script Hacking Experiment</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Entries/2007/8/24_Script_Hacking_Experiment.html</link>
+      <guid isPermaLink="false">bfaddb91-6d37-48a6-92d3-6b197c2fb74b</guid>
+      <pubDate>Fri, 24 Aug 2007 19:07:21 -0400</pubDate>
+      <description>&lt;img src=&quot;http://vgmoose.rickyayoub.com/VGMooses_Backpack/Videos/Media/widget-snapshot_84.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:138px; height:115px;&quot;/&gt;Nothing to big. Or big at all. It’s just the first script I did. Wee!</description>
+    </item>
+  </channel>
+</rss>

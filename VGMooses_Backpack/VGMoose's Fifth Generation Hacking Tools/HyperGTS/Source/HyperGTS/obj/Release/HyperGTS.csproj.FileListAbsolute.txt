@@ -1,0 +1,8 @@
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\HyperGTS\HyperGTS\bin\Release\HyperGTS.exe
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\HyperGTS\HyperGTS\bin\Release\HyperGTS.pdb
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\HyperGTS\HyperGTS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\HyperGTS\HyperGTS\obj\Release\HyperGTS.Form_HyperGTS.resources
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\HyperGTS\HyperGTS\obj\Release\HyperGTS.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\HyperGTS\HyperGTS\obj\Release\HyperGTS.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\HyperGTS\HyperGTS\obj\Release\HyperGTS.exe
+C:\Users\Daniel\Documents\Visual Studio 2008\Projects\HyperGTS\HyperGTS\obj\Release\HyperGTS.pdb

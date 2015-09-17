@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Downloads</title>
+    <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads</link>
+    <description>Various Pok&#xE9;mon hacking tool downloads are available here! Select the generation you&#x2019;re interested to and you will be directed to the appropriate downloads. </description>
+    <item>
+      <title>Fifth Generation</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2011/3/6_Fifth_Generation.html</link>
+      <guid isPermaLink="false">32dfac0b-9e6e-451d-a19f-7ea3192764b2</guid>
+      <pubDate>Sun, 6 Mar 2011 01:07:20 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2011/3/6_Fifth_Generation.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Fourth Generation</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2007/4/22_Fourth_Generation.html</link>
+      <guid isPermaLink="false">3a1b8102-3fe7-4ad3-9d02-922eb4858877</guid>
+      <pubDate>Sun, 22 Apr 2007 09:29:03 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2007/4/22_Fourth_Generation.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Third Generation</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2003/3/19_Third_Generation.html</link>
+      <guid isPermaLink="false">7c87a693-94df-46ed-b59b-6c174d621e51</guid>
+      <pubDate>Wed, 19 Mar 2003 08:03:44 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2003/3/19_Third_Generation.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Second Generation</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2000/10/15_Second_Generation.html</link>
+      <guid isPermaLink="false">ea14ac4e-6c3f-4e22-bf2a-1a702a245ceb</guid>
+      <pubDate>Sun, 15 Oct 2000 15:30:14 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2000/10/15_Second_Generation.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>First Generation</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/1998/9/30_Entry_1.html</link>
+      <guid isPermaLink="false">52144ac3-edbe-4edd-8b6e-f359a7974116</guid>
+      <pubDate>Wed, 30 Sep 1998 15:45:42 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/1998/9/30_Entry_1.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

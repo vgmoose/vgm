@@ -1,0 +1,6 @@
+Event Type Number, Name, Where the details start in Events.pkm, Number of Bytes, X Increase, Y Increase, Number of Y Byte, Number of X Byte, Number of Text Display Byte, Number of Picture Byte, Number of Movement 1 Byte, Number of Movement 2 Byte, Number of Item Byte, Number of Pokémon Set Byte, Number of Trainer Type Byte
+************************************************
+0, "Signposts", 2, 3, 0, 0, 1, 2, 3, 0, 0, 0, 0, 0, 0
+1, "Normal People", 4, 6, 4, 4, 2, 3, 6, 1, 4, 5, 0, 0, 0
+2, "Items", 6, 7, 4, 4, 2, 3, 6, 1, 4, 5, 7, 0, 0
+3, "Trainers", 8, 8, 4, 4, 2, 3, 6, 1, 4, 5, 0, 8, 7

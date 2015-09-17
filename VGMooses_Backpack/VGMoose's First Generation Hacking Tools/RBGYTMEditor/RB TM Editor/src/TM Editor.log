@@ -1,0 +1,4 @@
+Line 16: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 19: The property name _ExtentX in CommonDialog1 is invalid.
+Line 20: The property name _ExtentY in CommonDialog1 is invalid.
+Line 21: The property name _Version in CommonDialog1 is invalid.

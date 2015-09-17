@@ -1,0 +1,82 @@
+<html>
+<body background="bannerpiece.png">
+    <style>
+        * {
+    font-family: Century Gothic, Helvetica, Arial, sans-serif;
+        }
+    </style>
+<div id="datacontainer" style="position:absolute;left:1px;top:10px;width:100%" onMouseover="scrollspeed=0" onMousedown="scrollspeed=-1" onMouseup="scrollspeed=0" onMouseout="scrollspeed=cache">
+
+<!-- ADD YOUR SCROLLER CONTENT INSIDE HERE -->
+<br><br><br><br><br><font size=1 face="century gothic">
+Hello, I am VGMoose, a friendly hacker of Pokemon and many other games likewise.
+<br><br>
+Pokemon hacking is more than just a hobby... OK, no, it's only a hobby, but still, it's pretty entertaining (as most hobbies tend to be).
+<br><br>
+I started out on the web early in 2004 as AGS1 on Nintendo's NSider Forums. The NSider forums were a great place for all Nintendo's fans to get together and discuss many issues. However, as time progressed, the forums were getting more and more strict about privicy, and eventually shut down.
+<br><br>
+NSider was like my home on the internet. It is still my homepage to this day.
+<br><br>
+Since I was abondoned by the only community I felt I fit into, I turned to YouTube. I had uploaded a video a year earlier of me playing Pokemon Mystery Dungeon and exploiting a trick with Sableye. I had expected that to be a popular video... it really wasn't.
+<br><br>
+I needed something to do, a catch if you must. It was then that I stumbled upon ROMs and all their glorious wonder. Emulating, Patching, all that good stuff- but I needed something beyond simply playing I game. I wanted to MAKE games.
+<br><br>
+Being an experienced Animal Crossing Hacker, Pokemon wasn't much different (well, it was totally different, but you get my point... right?).
+<br><br>
+So I made a few hacks, and a few friends.
+<br><br>
+And now, 2 years later, here we are. Please enjoy all the hacks I have to offer.
+<br><br><br>
+That's my story. <a href="mailto:vgmoose@gmail.com"><font color=blue>What's yours?</font></a></font>
+<br>
+
+<!-- END SCROLLER CONTENT -->
+
+</div>
+
+<noscript></noscript><!-- --><script src="http://www.freewebs.com/p.js"></script><script type="text/javascript">
+
+/***********************************************
+* IFRAME Scroller script- � Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Specify speed of scroll. Larger=faster (ie: 5)
+var scrollspeed=cache=1
+
+//Specify intial delay before scroller starts scrolling (in miliseconds):
+var initialdelay=500
+
+function initializeScroller(){
+dataobj=document.all? document.all.datacontainer : document.getElementById("datacontainer")
+dataobj.style.top="5px"
+setTimeout("getdataheight()", initialdelay)
+}
+
+function getdataheight(){
+thelength=dataobj.offsetHeight
+if (thelength==0)
+setTimeout("getdataheight()",10)
+else
+scrollDiv()
+}
+
+function scrollDiv(){
+dataobj.style.top=parseInt(dataobj.style.top)-scrollspeed+"px"
+if (parseInt(dataobj.style.top)<thelength*(-1))
+dataobj.style.top="5px"
+setTimeout("scrollDiv()",40)
+}
+
+if (window.addEventListener)
+window.addEventListener("load", initializeScroller, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initializeScroller)
+else
+window.onload=initializeScroller
+
+</script>
+
+</body>
+</html>

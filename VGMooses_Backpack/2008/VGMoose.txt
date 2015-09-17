@@ -1,0 +1,34 @@
+I was VERY upset when I logged in and saw my beatiful magikarp background GONE this morning. But I think I've found the problem!
+
+I looked at the Page's source by right clicking and going to 'view source'
+
+Since my Image is hosted on photobucket, I did a search for photobucket. And I found the part where they set the background image. It was set to this:
+
+background-image: url(http://i5.photobucket.com/albums/y162/AGS1/Magikarp-1.gif&time=1218129522771);
+
+Now, it included a completely random stamp at the end called &time= and then a number(most likely the number of seconds from December 31st 1969, or something).
+
+I checked the page souce again and got this:
+background-image: url(http://i5.photobucket.com/albums/y162/AGS1/Magikarp-1.gif&time=1218129668844);
+
+Now, the stamp is different this time. Meaning youtube felt the need to add the current time onto the end of the image, therefore causing it to load improperly.
+
+Unfortunately, there isn't anything that can be done about this right now.
+
+Looking at the page source when logged out, the background image does function properly:
+background-image: url(http://i5.photobucket.com/albums/y162/AGS1/Magikarp-1.gif);
+
+So, luckily, when another viewer looks at your channel, the &time= stamp is removed, so your channel will only be screwed up when you look at it, others will still see your background.
+
+I don't know what caused this, but it's up to YouTube staff to fix the issue.
+
+And there's my two cents!
+
+---VGMoose (http://www.freewebs.com/VGMoose/VGMoose)
+
+(also, YouTube wouldn't let me post all this as a bulletin... must've been because I said '&time=' a lot, or something...)
+
+
+EDIT: It seems like the problem has since been fixed... GOOD
+
+

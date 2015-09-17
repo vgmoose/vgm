@@ -1,0 +1,25 @@
+Number, Name, Location of Signposts, Number of Signposts, Location of Talking People, Number of Talking People, Location of Items, Number of Items, Location of Trainers, Number of Trainers
+************************************************
+0, "Pallet Town", &H182D3, 4, &H182E6, 2, &H1, 0, &H1, 0
+5, "Viridian City", &H1839F, 5, &H183AF, 7, &H1, 0, &H1, 0
+6, "Viridian Gym", &H1, 0, &H74C33, 1, &H1, 0, &H74BEB, 9
+8, "Pewter City", &H18597, 7, &H185AD, 5, &H1, 0, &H1, 0
+9, "Pewter Gym", &H1, 0, &H5C54B, 1, &H1, 0, &H5C53B, 2
+10, "Cerulean City", &H187B2, 6, &H187D3, 9, &H1, 0, &H1, 0
+11, "Cerulean Gym", &H1, 0, &H5C859, 1, &H1, 0, &H5C841, 3
+13, "Vermilion City", &H189E2, 7, &H189F8, 6, &H1, 0, &H1, 0
+14, "Vermilion Gym", &H1, 0, &H5CC2B, 1, &H1, 0, &H5CC0B, 4
+15, "Celadon City", &H1805A, 9, &H18076, 9, &H1, 0, &H1, 0
+16, "Celadon Gym", &H1, 0, &H1, 0, &H1, 0, &H48B3D, 8
+17, "Lavender Town", &H44049, 6, &H4405C, 3, &H1, 0, &H1, 0
+18, "Saffron City", &H50A00, 10, &H50A1F, 15, &H1, 0, &H1, 0
+19, "Fighting Dojo", &H1, 0, &H1, 0, &H1, 0, &H5CFA8, 5
+22, "Fuchsia City", &H18BFC, 14, &H18C27, 10, &H1, 0, &H1, 0
+23, "Fuchsia Gym", &H1, 0, &H7569D, 1, &H1, 0, &H75665, 7
+28, "Cinnabar Island", &H1C03A, 5, &H1C04A, 2, &H1, 0, &H1, 0
+29, "Route 1", &H1C0E9, 1, &H1C0ED, 2, &H1, 0, &H1, 0
+30, "Route 2", &H5403E, 2, &H1, 0, &H54045, 2, &H1, 0
+31, "Route 3", &H5420C, 1, &H54210, 1, &H5424E, 1, &H54216, 8
+32, "Route 4", &H543C2, 3, &H543CC, 1, &H543DA, 1, &H543D2, 1
+37, "Route 9", &H546AC, 1, &H1, 0, &H546F8, 1, &H546B0, 9
+59, "Viridian Forest", &H611F6, 6, &H61209, 1, &H61227, 3, &H6120F, 3

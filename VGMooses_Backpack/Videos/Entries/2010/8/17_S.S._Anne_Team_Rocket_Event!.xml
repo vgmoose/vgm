@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 20:47:23 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This is a cool video, I promise. I was going for sort of a sense of &#x201C;realism&#x201D; here. Does that even mean anything in this &#x201C;field?&#x201D; Probably not, but like, I think it&#x2019;s &lt;/b&gt;&lt;b&gt;&lt;i&gt;really &lt;/i&gt;&lt;/b&gt;&lt;b&gt;cool, so you should too. Unfortunately, during the battle Ash&#x2019;s PIkachu actually gets defeated by a Wobbuffet... but oh well. Another thing, Escape Ropes don&#x2019;t actually work in this area... so I had to modify them to be able to. One last little bonus: there actually is an item where Ash&#x2019;s Pikachu is found. It&#x2019;s a Lava Cookie. You can get it by trading to get HM05 Flash instead of getting it from the Captain, and then returning later in the game when you have HM04 Surf.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, August 17, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;S.S. Anne Team Rocket Event!&lt;/b&gt;</richText>
+  </textBox>
+</content>

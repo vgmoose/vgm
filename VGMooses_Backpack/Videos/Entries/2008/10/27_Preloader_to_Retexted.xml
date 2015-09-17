@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 21:54:41 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;I believe that this is what inspired Pok&#xE9;mon Retexted. This was just a quick random hack, but somebody had told me that I should try to retext the &lt;/b&gt;&lt;b&gt;&lt;i&gt;whole &lt;/i&gt;&lt;/b&gt;&lt;b&gt;game. So I did. Try, that is. WHATEVER.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, October 27, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Preloader to Retexted&lt;/b&gt;</richText>
+  </textBox>
+</content>

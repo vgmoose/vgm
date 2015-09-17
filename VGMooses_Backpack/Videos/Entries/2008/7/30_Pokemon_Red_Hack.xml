@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 21:54:42 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Here&#x2019;s something you don&#x2019;t see every day. Really! It&#x2019;s a similar process to editing the other games, except with a lot less options. I think this one is pretty funny! Watch it!&#xD;&#xD;It was also featured on some popular Pok&#xE9;mon blog whose name escapes me. But that&#x2019;s still cool, right?!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, July 30, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Pok&#xE9;mon Red Hack&lt;/b&gt;</richText>
+  </textBox>
+</content>

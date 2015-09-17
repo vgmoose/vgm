@@ -1,0 +1,46 @@
+Pokémon Gold (Silver) Sprite Editor
+Programming & offsets: The_Fake_God
+
+[Instructions]
+
+-Load your rom (Gold/Silver)
+-Select the sprite you want to edit from the dropdown list
+-Press "Load" and edit.
+
+[Buttons]
+Everything enclosed in parentheses is the button´s name.
+
+[<< & >>]
+Every sprite has 6 images, go back and forth with these controls
+
+[Load]
+It will load the selected sprite.
+
+[Save]
+It will save ONLY the image you are editing, not the whole sprite!
+
+[Gridlines]
+Show/Hide the gridlines, they´re useful to know where to place your 
+images.
+
+[0x######]
+It will show the address of the sprite you're viewing.
+
+[Pallette controls]
+The pallette thing is based on Snowbro's Tile Layer (which I used to find
+out the addresses and test my gbc bbp editor, thanks!). It will let you 
+change the pallette of the image in the editor. However that doesn´t mean 
+you'll see the same colors in the game. Remember to use only three colors
+and a mask. The mask is often the first color.
+
+_______________________________________________________________________
+
+[Thanks]
+
+Klarth        - consolegfx document
+Snowbro       - Tile Layer
+Eliot Butler  - for requesting this thing
+_______________________________________________________________________
+
+The_Fake_God@hotmail.com
+http://tfg.retrobase.com

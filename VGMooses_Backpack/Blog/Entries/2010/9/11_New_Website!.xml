@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A81521E2-A797-4952-8D85-F3CD3D0638EF">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 21:54:31 -0500"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;New Website!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, September 11, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Well, this is pretty cool right? iWeb is actually good for something! With... any luck... at all there will be lots of things here, such as Pok&#xE9;mon Hack downloads, or maybe, in the distant and slash or not so distant future tutorials. First things first though&#x2013; Pok&#xE9;mon Interactive Adventure. It is happening. Honest. It will take a while, but I have already privately uploaded (as some of you have so keenly noticed) the next pieces of the adventure. Unfortunately, unlike the earlier break in work, these ends don&#x2019;t tie up nicely at one single endpoint. So for now, I will continue uploading privately until the next time they all meet together. (Which according to the &#x201C;script&#x201D; is also at the end...) SORRY IT&#x2019;LL BE DONE SOON THOUGH MAYBE.&#xD;&#xD;What else? That&#x2019;s really all I&#x2019;ve got for ya&#x2019;ll (assuming at least more than one person is reading this...) I&#x2019;m off to go play &lt;/b&gt;&lt;b&gt;&lt;i&gt;Deadspace: Extraction&lt;/i&gt;&lt;/b&gt;&lt;b&gt; for the first time now, and I hope I don&#x2019;t cry.&lt;/b&gt;</richText>
+  </textBox>
+</content>

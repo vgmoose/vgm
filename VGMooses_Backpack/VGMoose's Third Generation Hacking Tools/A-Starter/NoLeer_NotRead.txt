@@ -1,0 +1,12 @@
+''La curiosidad mató al gato''
+Este archivo pertenece a Whack a Hack (www.wah.studiopokemon.com)
+Herramienta hecha por HackMew
+Bájate actualizaciones y el código fuente en http://hackmew.netsons.org
+^-^ Serg!o
+
+
+''The curiosity killed the cat''
+This file belongs to Whack a Hack (www.wah.studiopokemon.com)
+Tool made by HackMew
+Download updates and the source code in http://hackmew.netsons.org
+^-^ Serg!o

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:06 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Well, this is a little bit better. The advantages over the first one I did, besides being an actual downloadable patch, include a nice clean script interface, and also some fancy hexing footwork around some of the limitations of the uniform (i.e. inability to fly.) Unfortunately, as soon as I removed the inability, I found out why it was there in the first place&#x2013; the Rocket Uniform is temporary and wares off when the character changes sprites.&#xD;&#xD;I was pretty disappointed when I found this out, but the event is rather nice and clean and I had already put the effort into it so I&#x2019;m sharing it anyway.&#xD;&#xD;To perfect his hack, short of modifying every single revert to original sprites check if the Rocket Uniform is on, would probably require an item. That way if the uniform were removed it could be put back on instantly. Also using the phone could work. I don&#x2019;t have HEX offsets for either of those... however... so...&#xD;&#xD;Well, darn. Maybe later.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, February 23, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Better Rocket Uniform Patch&lt;/b&gt;</richText>
+  </textBox>
+</content>

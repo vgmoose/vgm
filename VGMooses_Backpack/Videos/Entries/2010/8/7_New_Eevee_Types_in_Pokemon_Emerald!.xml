@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 20:47:24 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This is another cool one! The idea is that science is wrong, or something. This one also has that sort of &#x201C;realistic&#x201D; tone to it. The sprites were hard to get in though... The Robo-Eevee one was more customly made, but the Ghost-Eevee was pretty much completely stolen from somebody through Google Images... OH WELL. This one should send shivers down your spine... and if it doesn&#x2019;t, well, too bad. ALSO THE IDEA FOR THE HACK WAS STOLEN FROM THE GIRL. Whatever &lt;/b&gt;&lt;b&gt;&lt;i&gt;that &lt;/i&gt;&lt;/b&gt;&lt;b&gt;means. Also, please notice that the Robo-Eevee has no nature, and that the ghost Eevee has the &lt;/b&gt;&lt;b&gt;&lt;i&gt;same &lt;/i&gt;&lt;/b&gt;&lt;b&gt;nature as the one that &#x201C;died.&#x201D;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, August 7, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;New Eevee Types in Pok&#xE9;mon Emerald!&lt;/b&gt;</richText>
+  </textBox>
+</content>

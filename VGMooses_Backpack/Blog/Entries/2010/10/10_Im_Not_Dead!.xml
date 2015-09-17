@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A81521E2-A797-4952-8D85-F3CD3D0638EF">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 21:54:33 -0500"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;I&#x2019;m Not Dead!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, October 10, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This is literally just an update to let you know that I&#x2019;m still alive! AND YES, THIS IS STILL GOING TO GET DONE &lt;/b&gt;&lt;b&gt;&lt;i&gt;EVEN IF IT KILLS ME. &lt;/i&gt;&lt;/b&gt;&lt;b&gt;I have a chunk of time to work on it on Tuesday, so I think I shall do that then. With any luck, it&#x2019;ll be finished.&#xD;&#x2028;Sorry this time. It&#x2019;s really just laziness now that I&#x2019;ve overcome that trainer-in-battle issue. I also installed Windows 7 as a virtual machine as opposed to Windows XP, and I&#x2019;d like to do another tutorial soon. Maybe even one detailing how to use the GTS to hack Pok&#xE9;mon in the current games.&#xD;&#xD;So yeah, that&#x2019;s all I&#x2019;ve got. Again, not that it matters, because nobody reads this. But whatever.&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A81521E2-A797-4952-8D85-F3CD3D0638EF">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 21:54:32 -0500"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;DUDE PROGRESS UPDATE&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, September 19, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;CAN YOU BELIEVE IT? I CAN NOT BELIEVE IT.&#xD;&#xD;Okay, no, but seriously, I need to go to bed. Here&#x2019;s some shizz from the Interactive Adventure:&#xD;&lt;/b&gt;&lt;b&gt;&#xD;&lt;/b&gt;&lt;b&gt;Like seriously, that was a lot of work. YOU DON&#x2019;T EVEN KNOW. At least it&#x2019;s finally out of the way. The rest of the Interactive Adventure should (hopefully) be downhill from here on!&#xD;&#x2028;THAT&#x2019;S ALL I GOT!! MOOSE OUT.&lt;/b&gt;</richText>
+  </textBox>
+</content>

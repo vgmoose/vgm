@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:05 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This video is a good one! You should be sure to watch all of it!&#xD;&#xD;But seriously, I had the idea for this and I just couldn&#x2019;t resist. It&#x2019;s kind of completely true once you think about it...&#xD;&#xD;There is actually a little bit of hacking involved here&#x2013; about one or two minutes into the video the antagonist tries to move but finds that he is unable to. &#xD;&#xD;Lol?&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, February 2, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Play as Gym Leader in FireRed&lt;/b&gt;</richText>
+  </textBox>
+</content>

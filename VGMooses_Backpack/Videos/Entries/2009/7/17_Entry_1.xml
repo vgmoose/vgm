@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 20:47:25 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This is another one of those hype videos that&#x2019;s supposed to trick people into thinking there&#x2019;s actually something there that they missed. However, it quickly loses that in the second part (when you click on the annotation) and everything is quickly revealed to fall apart. Hehe, it&#x2019;s still funny though!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, July 17, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Secret Area in Pacifidlog Town&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A81521E2-A797-4952-8D85-F3CD3D0638EF">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:00 -0500"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;All I do is haaaaxkkck&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, February 26, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Pok&#xE9;mon Black and white are coming out soon and I did a hacxkkie amajig for them.&#xD;&#xD;I also put up a preliminary fifth gen download link. I included a lot of tools from the fourth gen download that I was familiar with in addition to pptxt, for text editing. &#xD;&#xD;Also, you all probably have not noticed, but I updated the fourth gen download so that it&#x2019;s actually useful. It has everything you need in addition to detailed help files. All it&#x2019;s really missing is a map editor, which doesn&#x2019;t actually exist at this time so I&#x2019;m feeling pretty good about that...&#xD;&#xD;Yeeeeeahhhh...&lt;/b&gt;</richText>
+  </textBox>
+</content>

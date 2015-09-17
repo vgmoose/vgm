@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 20:47:30 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Oh look, another thing that appears to have been supposed to be turned into a series. That&#x2019;s unfortunate. This one is actually rather popular and well-received for some reason. It&#x2019;s based off those old rumors that you (or at least I) always heard as a kid that described these super crazy 4th stage evo things that would just be liek &#x201C;ohai, I will pwn u.&#x201D; This looks believable right?!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, November 27, 2008&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Pok&#xE9;God: Charcoalt&lt;/b&gt;</richText>
+  </textBox>
+</content>

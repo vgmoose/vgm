@@ -1,0 +1,93 @@
+Number (not the number the ROM uses, as of yet), Name, Location of Map, Location of Border, Location of Y Size (not needed), Y Size, Location of X Size (not needed), X Size, Tileset Used, Map Comment, Location of Warp-To Points, Event Placement 2 Addition, Are There Warps? (True or False), Number of Warp-To Points, X Warp Alignment, Y Warp Alignment, Wild Pokémon Location, Has Event support been added? (True or False) [Note: All the hex addresses are one larger than they would be in a hex editor, because of the way Visual Basic works]
+************************************************
+"Pallet Town", 0, 5
+0, "Pallet Town", &H182FE, &H182C4, &H182A4, 9, &H182A3, 10, 0, "This map works perfectly.", &H182F2, 0, True, 3, 0, 0, &H1, True
+1, "Ash's House (Downstairs)", &H4820A, &H481E5, &H4815F, 4, &H4815E, 4, 1, "Also used for the Copycat's house in Saffron City. Currently no event support.", &H481FE, 0, True, 3, 0, 0, &H1, False
+2, "Ash's House (Upstairs)", &H5C011, &H5C0D1, &H5C0A7, 4, &H5C0A6, 4, 1, "Also used for the Copycat's house in Saffron City. Currently no event support.", &H5C0D9, 0, True, 1, 0, 0, &H1, False
+3, "Gary's House", &H19BF7, &H19BCF, "---", 4, "---", 4, 2, "Currently no event support.", &H19BEF, 0, True, 2, 0, 0, &H1, False
+4, "Professor Oak's Lab", &H1C1C1, &H1, "---", 6, "---", 5, 7, "I have not found the border, warps or events for this map.", &H1, 0, False, 0, 0, 0, &H1, False
+************************************************
+"Viridian City", 5, 3
+5, "Viridian City", &H183ED, &H18385, "---", 18, "---", 20, 0, "This map works perfectly.", &H183D9, 0, True, 5, 0, 0, &H1, True
+6, "Viridian Gym", &H74C48, &H74BDF, "---", 9, "---", 10, 7, "This map works perfectly.", &H74C40, 0, True, 2, 0, 0, &H1, True
+7, "School House", &H1C1EF, &H1, "---", 4, "---", 4, 2, "I have not found the border, warps or events for this map.", &H1, 0, True, 0, 0, 0, &H1, False
+************************************************
+"Pewter City", 8, 2
+8, "Pewter City", &H185E7, &H18578, "---", 18, "---", 20, 0, "This map works perfectly.", &H185CB, 0, True, 7, 0, 0, &H1, True
+9, "Pewter Gym", &H5C559, &H5C52F, "---", 7, "---", 5, 7, "This map works perfectly.", &H5C551, 0, True, 2, 0, 0, &H1, True
+************************************************
+"Cerulean City", 10, 3
+10, "Cerulean City", &H18831, &H18787, "---", 18, "---", 20, 0, "This map works perfectly.", &H18809, 0, True, 10, 0, 0, &H1, True
+11, "Cerulean Gym", &H5C867, &H5C835, "---", 7, "---", 5, 7, "This map works perfectly.", &H5C85F, 0, True, 2, 0, 0, &H1, True
+12, "Robbed House", &H1C1FF, &H1, "---", 4, "---", 4, 2, "I have not found the border, warps or events for this map.", &H1, 0, True, 0, 0, 0, &H1, False
+************************************************
+"Vermilion City", 13, 2
+13, "Vermilion City", &H18A40, &H189BB, "---", 18, "---", 20, 0, "This map works perfectly.", &H18A1C, 0, True, 9, 0, 0, &H1, True
+14, "Vermilion Gym", &H5CC39, &H5CBFF, "---", 9, "---", 5, 7, "This map works perfectly.", &H5CC31, 0, True, 2, 0, 0, &H1, True
+************************************************
+"Celadon City", 15, 2
+15, "Celadon City", &H180F8, &H18023, "---", 17, "---", 25, 0, "This map works perfectly.", &H180AC, 30, True, 13, 2, -2, &H1, True
+16, "Celadon Gym", &H48B85, &H48B31, "---", 9, "---", 5, 7, "This map works perfectly.", &H48B7D, 0, True, 2, 0, 0, &H1, True
+************************************************
+"Lavender Town", 17, 1
+17, "Lavender Town", &H44086, &H4402E, "---", 9, "---", 10, 0, "This map works perfectly.", &H4406E, 0, True, 6, 0, 0, &H1, True
+************************************************
+"Saffron City", 18, 4
+18, "Saffron City", &H50A99, &H509DD, "---", 18, "---", 20, 0, "This map works perfectly.", &H50A79, 0, True, 8, 0, 0, &H1, True
+19, "Fighting Dojo", &H5CFE4, &H5CF9C, "---", 6, "---", 5, 7, "This map works perfectly.", &H5CFDC, 0, True, 2, 0, 0, &H1, True
+20, "Copycat's House (Downstairs)", &H4820A, &H481E5, &H4815F, 4, &H4815E, 4, 1, "Also used for Ash's house in Pallet Town. Currently no event support.", &H481FE, 0, True, 3, 0, 0, &H1, False
+21, "Copycat's House (Upstairs)", &H5C011, &H5C0D1, &H5C0A7, 4, &H5C0A6, 4, 1, "Also used for Ash's house in Pallet Town. Currently no event support.", &H5C0D9, 0, True, 1, 0, 0, &H1, False
+************************************************
+"Fuchsia City", 22, 6
+22, "Fuchsia City", &H18C87, &H18BD5, "---", 18, "---", 20, 0, "This map works perfectly.", &H18C63, 0, True, 9, 0, 0, &H1, True
+23, "Fuchsia Gym", &H756AB, &H75659, "---", 9, "---", 5, 7, "This map works perfectly.", &H756A3, 0, True, 2, 0, 0, &H1, True
+24, "Safari Game (Area 1)", &H45C1F, &H45BC6, "---", 13, "---", 15, 10, "I have not found the events or wild Pokémon data for this map.", &H45BFB, 0, True, 9, 0, 0, &H1, False
+25, "Safari Game (Centre Area)", &H458DD, &H4588C, "---", 13, "---", 15, 10, "I have not found the events or wild Pokémon data for this map.", &H458C9, 0, True, 5, 0, 0, &H1, False
+26, "Safari Game (Area 2)", &H45A3F, &H459D6, "---", 18, "---", 20, 10, "I have not found the events or wild Pokémon data for this map.", &H45A1B, 0, True, 9, 0, 0, &H1, False
+27, "Safari Game (Area 3)", &H4A249, &H4A1DD, "---", 13, "---", 15, 10, "I have not found the events or wild Pokémon data for this map.", &H4A229, 0, True, 8, 0, 0, &H1, False
+************************************************
+"Cinnabar Island", 28, 1
+28, "Cinnabar Island", &H1C06A, &H1C023, "---", 9, "---", 10, 0, "This map works perfectly.", &H1C056, 0, True, 5, 0, 0, &H1, True
+************************************************
+"Routes", 29, 24
+29, "Route 1", &H1C0FD, &H1C0DE, "---", 18, "---", 10, 0, "This map works perfectly.", &H1, 0, False, 0, 0, 0, 53473, True
+30, "Route 2", &H5407F, &H54023, "---", 36, "---", 10, 0, "This map works perfectly.", &H54053, 0, True, 6, 0, 0, 53495, True
+31, "Route 3", &H54256, &H54209, "---", 9, "---", 35, 0, "This map works perfectly.", &H1, 0, False, 0, 0, 0, 53561, True
+32, "Route 4", &H543ED, &H543B3, "---", 9, "---", 45, 0, "This map works perfectly.", &H543E1, 0, True, 3, 0, 0, 53649, True
+33, "Route 5", &H545D3, &H545A4, "---", 18, "---", 10, 0, "Currently no event support.", &H545BF, 0, True, 5, 0, 0, 53737, False
+34, "Route 6", &H5807A, &H58023, "---", 18, "---", 10, 0, "Currently no event support.", &H5806A, 0, True, 4, 0, 0, 53759, False
+35, "Route 7", &H48052, &H48023, "---", 9, "---", 10, 0, "Currently no event support.", &H4803E, 0, True, 5, 0, 0, 53913, False
+36, "Route 8", &H581C7, &H58150, "---", 9, "---", 30, 0, "Currently no event support.", &H581B3, 0, True, 5, 0, 0, 53891, False
+37, "Route 9", &H546FF, &H1, "---", 9, "---", 30, 0, "I have not found the border or wild Pokémon data for this map.", &H1, 0, False, 0, 0, 0, &H1, True
+38, "Route 10", &H58357, &H582F7, "---", 36, "---", 10, 0, "Currently no event support.", &H58347, 0, True, 4, 0, 0, 53847, False
+39, "Route 11", &H58560, &H584E1, "---", 9, "---", 30, 0, "Currently no event support.", &H5854C, 0, True, 5, 0, 0, 53781, False
+40, "Route 12", &H58711, &H5869B, "---", 54, "---", 10, 0, "Currently no event support.", &H58701, 0, True, 4, 0, 0, 53869, False
+41, "Route 13", &H5488C, &H1, "---", 9, "---", 30, 0, "I have not found the border or events for this map.", &H1, 0, False, 0, 0, 0, 54049, False
+42, "Route 14", &H54A13, &H1, "---", 27, "---", 10, 0, "I have not found the border or events for this map.", &H1, 0, False, 0, 0, 0, 54071, False
+43, "Route 15", &H589CD, &H5894F, "---", 9, "---", 30, 0, "Currently no event support.", &H589BD, 0, True, 4, 0, 0, 54093, False
+44, "Route 16", &H58B85, &H58AFD, "---", 9, "---", 20, 0, "Currently no event support.", &H58B61, 0, True, 9, 0, 0, 54115, False
+45, "Route 17 (Cycle Path)", &H54BA9, &H1, "---", 72, "---", 10, 0, "I have not found the border or events for this map.", &H1, 0, False, 0, 0, 0, 54137, False
+46, "Route 18", &H58C9D, &H58C5B, "---", 9, "---", 25, 0, "Currently no event support.", &H58C8D, 0, True, 4, 0, 0, 54159, False
+47, "Sea Route 19", &H54EF2, &H1, "---", 27, "---", 10, 0, "I have not found the border, events or wild Pokémon data for this map.", &H1, 0, False, 0, 0, 0, &H1, False
+48, "Sea Route 20", &H5017E, &H50114, "---", 9, "---", 50, 0, "I have not found the events or wild Pokémon data for this map.", &H50176, 0, True, 2, 0, 0, &H1, False
+49, "Sea Route 21", &H5506E, &H1, "---", 45, "---", 10, 0, "I have not found the border or events for this map.", &H1, 0, False, 0, 0, 0, 54489, False
+50, "Route 22", &H5003E, &H50023, "---", 9, "---", 20, 0, "Currently no event support.", &H5003A, 0, True, 1, 0, 0, 53517, False
+51, "Route 24", &H506E8, &H1, "---", 18, "---", 10, 0, "I have not found the border, events or wild Pokémon data for this map.", &H1, 0, False, 0, 0, 0, &H1, False
+52, "Route 25", &H50811, &H507B3, "---", 9, "---", 30, 0, "I have not found the events or wild Pokémon data for this map.", &H5080D, 0, True, 1, 0, 0, &H1, False
+************************************************
+"Caves", 53, 6
+53, "Mt. Moon (Main)", &H49B98, &H49B07, "---", 18, "---", 20, 13, "Currently no event support.", &H49B84, 0, True, 5, 0, 0, 53583, False
+54, "Mt. Moon (Paths)", &H51A92, &H51A4E, "---", 14, "---", 14, 13, "Currently no event support.", &H51A72, 0, True, 8, 0, 0, 53605, False
+55, "Mt. Moon (Team Rocket)", &H4A042, &H49FDC, "---", 18, "---", 20, 13, "Currently no event support.", &H4A032, 0, True, 4, 0, 0, 53627, False
+56, "Unk. Dungeon (Main)", &H74D77, &H74D16, "---", 9, "---", 15, 13, "Currently no event support.", &H74D53, 0, True, 9, 0, 0, &H1, False
+57, "Unk. Dungeon (Paths)", &H45E5E, &H45E15, "---", 9, "---", 15, 13, "Currently no event support.", &H45E46, 0, True, 6, 0, 0, &H1, False
+58, "Unk. Dungeon (Mewtwo)", &H45F59, &H45F37, "---", 9, "---", 15, 13, "Currently no event support.", &H45F55, 0, True, 1, 0, 0, &H1, False
+************************************************
+"Other", 59, 1
+59, "Viridian Forest", &H60001, &H611DB, "---", 24, "---", 17, 10, "This map works perfectly.", &H61242, 0, True, 6, 0, 0, 53539, True
+************************************************
+"Houses", 60, 4
+60, "House 1", &H19C40, &H19C26, "---", 4, "---", 4, 2, "Currently no event support.", &H19C38, 0, True, 2, 0, 0, &H1, False
+61, "House 2", &H1C1DF, &H1, "---", 4, "---", 4, 2, "I have not found the border, warps or events for this map.", &H1, 0, True, 0, 0, 0, &H1, False
+62, "House 3", &H55230, &H1, "---", 4, "---", 4, 2, "I have not found the border, warps or events for this map.", &H1, 0, True, 0, 0, 0, &H1, False
+63, "House 4", &H74021, &H1, "---", 4, "---", 4, 2, "I have not found the border, warps or events for this map.", &H1, 0, True, 0, 0, 0, &H1, False

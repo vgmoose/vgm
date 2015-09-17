@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:04 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This is a good one! Written almost entirely by whatsherface, with the exception of myself who chose to incorporate Bill in on the shenanigans along with the secret garden.&#xD;&#xD;Unova is the new region in case you haven&#x2019;t heard already. It was just announced today!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, November 22, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Ash Goes To Unova!&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20110403" date="2011-04-03 01:07:26 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This was simply a test of custom sprite insertion into Heart gold and Soul silver, which was mildly successful.&#xD;&#xD;Yes, it is Justin Bieber.&#xD;&#xD;More to come.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, March 31, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Custom Sprite Insertion&lt;/b&gt;</richText>
+  </textBox>
+</content>

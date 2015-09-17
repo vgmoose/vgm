@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="362143E8-8DB9-4CB0-B214-2F673C741117">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:11 -0500"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Custom Text Tutorial&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, October 11, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;VIDEO TUTORIAL. This is it! The text editing tutorial! It&#x2019;s really a lot easier than it looks! And kind of... &lt;/b&gt;&lt;b&gt;&lt;i&gt;fun&lt;/i&gt;&lt;/b&gt;&lt;b&gt;. Scary right?&#xD;&#xD;The wonderful and amazing program you see above is none other than Advance-Text! It is simply the single best and greatest program (in my humble) opinion out there for beginner text editors. &#xD;&#xD;So, let&#x2019;s get started. Bust out your A-Text copy which I have so mindfully included in my download pack. If you receive the following notification:&#xD;&lt;/b&gt;&lt;b&gt;&#xD;&lt;/b&gt;&lt;b&gt;It&#x2019;s time to do some googling. Or look &lt;/b&gt;&lt;b&gt;&lt;a href="http://www.ascentive.com/support/new/support_dll.phtml?dllname=COMDLG32.OCX"&gt;here&lt;/a&gt;&lt;/b&gt;&lt;b&gt;. Download and follow the instructions on that page to install and register comdlg32.ocx.&#xD;&#xD;Once all of that is out of the way, and you have A-Text up and running, simply open your ROM as you would with any of the other tools.&#xD;&lt;/b&gt;&lt;b&gt;&#xD;&lt;/b&gt;&lt;b&gt;The ROM that you loaded may or may not activate one of the packaged INI files that tell it what the text pointers are. For this tutorial, however, we will not be using them. Fire up VBA and load up the ROM of the same name.&#xD;&#xD;Take it away, me:&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&lt;/b&gt;&lt;b&gt;	-	While playing the game find the text that you wish to edit.&#xD;	-	Click on Search in Advance Text&#xD;	-	Type the text &lt;/b&gt;&lt;b&gt;exactly as it is in the game&lt;/b&gt;&lt;b&gt;&#xD;	-	Check the box that says &#x201C;Start from Beginning&#x201D;&#xD;	-	Click Search button&#xD;	-	If the text on the right is what you wish to edit, hit save and give it a name and category&#xD;	-	Edit the text accordingly with the interface&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Custom_Text_Tutorial_files/shapeimage_2.png" left="0px" top="0px" width="688px" height="400px"/>
+</content>

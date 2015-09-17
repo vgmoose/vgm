@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A81521E2-A797-4952-8D85-F3CD3D0638EF">
+  <lastEdited clientType="local-build-20101212" date="2010-12-12 21:54:32 -0500"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;VBA Tutorial Up!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, September 14, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;That actually took about a billion more years than I thought that it would&#x2019;ve. I&#x2019;m not even kidding. Maybe it&#x2019;s just the ridiculous amount of detail I went into. I don&#x2019;t even think any one &lt;/b&gt;&lt;b&gt;&lt;i&gt;needs &lt;/i&gt;&lt;/b&gt;&lt;b&gt;a VBA tutorial, so I honestly don&#x2019;t know what all that was about. I&#x2019;m thinking Advance Map, or Advance Text will be next, as they are excellent tools for beginners. Also, I&#x2019;m terrified of attempting to explain scripting, so I shall put that off as long as I have to.&#xD;&#xD;And yes, as usual the Interactive Adventure is being worked on. I&#x2019;m still trying to decide if I want it to keep going or if I just want to finish it. I mean, I think it&#x2019;d be cool if I could keep adding chapters to it and it would appear to go on forever, maybe even branch out in a choose-your-own-adventure style thing. Then again, that is so much infinitely more work, it isn&#x2019;t even funny. So yeah, I&#x2019;ll stick to ending it now, then if I feel completely motivated later I&#x2019;ll extend the story. I think it&#x2019;s a good ending though, ya&#x2019;ll should be happy(?).&#xD;&#xD;EDIT: Added a scrollbar to allow all of the comments to show on the Comments page. Not like they&#x2019;re all just spam anyway, but whatever.&lt;/b&gt;</richText>
+  </textBox>
+</content>

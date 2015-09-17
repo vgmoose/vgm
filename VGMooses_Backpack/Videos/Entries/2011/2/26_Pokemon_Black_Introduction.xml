@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:08 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This was also alluded to previously with the initial hack that showed it was possible.&#xD;&#xD;The process for hacking fifth gen is very similar to fourth, at least as far as text is concerned.&#xD;&#xD;Fortunately text hacking is teh bestest. These games have still yet to come out in america, so once they do we&#x2019;ll see what the community does as far as scripts and the like.&#xD;&#xD;Most of this video was composed using pptxt, by SCV. It&#x2019;s a very limited, but effective text editor. You can try this out yourself with the fifth gen download on the downloads page. The text .narcs for black and white are in a/0/0/2 and a/0/0/3. (2 contains elements like items and the intro while 3 continues much of the main story).&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, February 26, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Pok&#xE9;mon Black Introduction&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="A2388A2F-87DB-4633-B2B1-C11D4F45BBF1">
+  <lastEdited clientType="local-build-20110227" date="2011-02-27 15:42:05 -0500"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wow, those are a lot of big words. Anyway, this is just a jerry-rigged version of an option to take on and off the Rocket uniform controlled by the player.&#xD;&#xD;When I was playing through this games, i wondered why this wasn&#x2019;t an option and the idea for this immediately came to me.&#xD;&#xD;I&#x2019;d like to see it on some item, as I don&#x2019;t know about the side-effects it has with the story, so we&#x2019;ll see.&#xD;&#xD;Patch coming soon, regardless of the side-effects, most likely.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, February 22, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Impromptu Rocket Uniform Implementation&lt;/b&gt;</richText>
+  </textBox>
+</content>

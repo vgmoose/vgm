@@ -1,0 +1,71 @@
+Pokemon Yellow Sprite Editor
+by: The_Fake_God
+
+<Introduction>
+
+This is one of my favorite programs. I´m not a pokemon fan at all, 
+(maybe that´s why you´ll find a lot of ????? list items :P) but I
+wanted to create a program capable of editing 2BP graphics with a
+simple and clean interface. Happy editing.
+
+<Pokemon Yellow Sprite Editor>
+
+Supported:
+
+*More than 40 editable sprites
+*Visual Sprite Testing
+
+Unsupported:
+
+*A few scrambled tiles
+*Command line
+
+[Load Rom]
+Select you *.gb or *.gbc rom image. If your rom has any other extension
+then CHANGE IT! I forgot to add the "All files (*.*)" thingy. It won´t
+check if you´re loading the correct file, so you can edit your .doc
+science project with no problem (well, if it's 1MB size...). Oh well...
+
+[Save Changes]
+Just like it sounds. It will save ONLY the current sprite (the whole
+picture inside the Sprite Viewer)
+
+[Quit]
+Exit the program
+
+[Test Sprite]
+This option is so cool! You can test the movement of your sprite just
+by clicking on this menu option (or the button labeled "Test Sprite").
+
+[Gridlines color]
+Change the color of the grid (Sprite Editor).
+
+[Sprite Pointer Color]
+Have you seen that little red box that points to a sprite piece???
+
+[Help]
+This file
+
+[About]
+The program's about box.
+
+[Sprite Viewer]
+You just click on the piece of the sprite you want to edit and it will
+be loaded into the Sprite Editor. Edit and the save.
+
+[Sprite Editor]
+Load the sprite, select a color from the pallette and paint.
+
+[Pallette]
+This pallette is NOT! the sprite's pallette. I added this option for the
+sake of viewing your sprites with different colors (like TLP).
+
+[Sprite]
+Select a sprite to load. After you selected it from the list, click on
+Load Sprite to view it.
+
+[Gridlines]
+Enable/Disable the gridlines.
+
+The_Fake_God@hotmail.com
+http://www.retrobase.com/fakegod
