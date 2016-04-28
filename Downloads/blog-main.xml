@@ -4,6 +4,15 @@
     <title>Downloads</title>
     <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads</link>
     <description>Various Pok&#xE9;mon hacking tool downloads are available here! Select the generation you&#x2019;re interested to and you will be directed to the appropriate downloads. </description>
+      <item>
+      <title>Sixth Generation</title>
+      <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2013/10/12_Sixth_Generation.html</link>
+      <guid isPermaLink="false">32dfac0b-9e6e-451d-a19f-7ea3192764b3</guid>
+      <pubDate>Sat, 10 Oct 2013 01:07:20 -0500</pubDate>
+      <description>This generation includes, and is limited to: Pok&#xE9;mon X, Pok&#xE9;mon Y, Pok&#xE9;mon Omega Ruby, Pok&#xE9;mon Alpha Sapphire. They are 3DS games, so the process for modifying them is a little bit different than the below titles. This is partially due to the lack of a decent 3DS emulator at the moment.</description>
+      <iweb:image href="Media/Sixtools2_games.png"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2011/3/6_Fifth_Generation.html#comment_layer"></iweb:comment>
+    </item>
     <item>
       <title>Fifth Generation</title>
       <link>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads/Entries/2011/3/6_Fifth_Generation.html</link>
@@ -51,6 +60,6 @@
     </item>
     <iweb:dateFormat>MMMM d, y</iweb:dateFormat>
     <iweb:baseURL>http://vgmoose.rickyayoub.com/VGMooses_Backpack/Downloads</iweb:baseURL>
-    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+    <iweb:maximumSummaryItems>6</iweb:maximumSummaryItems>
   </channel>
 </rss>
